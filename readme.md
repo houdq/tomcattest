@@ -9,6 +9,6 @@ workQueue=0
 
 ### 技术点
 
-1.查看项目 dump
+1. 查看项目 dump
 2. 查看tomcat相关源码
 3. 对比其他容器  underfow、jetty
